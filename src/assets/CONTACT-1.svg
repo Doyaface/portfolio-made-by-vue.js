@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="39" viewBox="0 0 248 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 32px;
+        font-family: AxiaStencilBlack-Regular, Axia Stencil;
+        opacity: 0.699;
+      }
+    </style>
+  </defs>
+  <text id="CONTACT" class="cls-1"><tspan x="61.2" y="29">CONTACT</tspan></text>
+</svg>

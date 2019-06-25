@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="39" viewBox="0 0 148 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc042;
+        font-size: 32px;
+        font-family: AxiaStencilBlack-Regular, Axia Stencil;
+      }
+    </style>
+  </defs>
+  <text id="SEND" class="cls-1"><tspan x="36.384" y="29">SEND</tspan></text>
+</svg>
