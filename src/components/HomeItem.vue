@@ -4,7 +4,7 @@
       <!-- <div style="background-color:#4DC0B2; width:5px; height:180px;"></div> -->
       <div class="hometitle">
         <h1 class="firstname">TAKAHIRO</h1>
-        <h1 class="familyname">BABA</h1>
+        <h1 class="lastname">BABA</h1>
         <h1 class="portfolio">PORTFOLIO</h1>
         <h4>Made With Vue.js</h4>
         <a href="mailto:t.baba0222@gmail.com">
