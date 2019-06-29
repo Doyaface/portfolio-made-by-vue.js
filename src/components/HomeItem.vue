@@ -27,7 +27,7 @@
     margin: 180px auto auto 115px;
     text-align: left;
     .hometitle{
-    border-left: 5px solid #4DC0B2;
+        border-left: 5px solid #4DC0B2;
         font-family: paralucent, sans-serif;
         font-style: normal;
         color: #586365;
@@ -40,7 +40,7 @@
       .firstname{
         line-height: 70px;
       }
-      .familyname{
+      .lastname{
         line-height: 70px;
         color: #007B6F;
       }
