@@ -59,7 +59,6 @@
         color: #007B6F;
         line-height: 48px;
         text-decoration: none;
-        
       }
     }
   .icons{
