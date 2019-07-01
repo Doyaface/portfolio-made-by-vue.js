@@ -44,10 +44,16 @@ export default {
       height: 430px;
       margin: 180px 0px 190px;
       font-family: axia-stencil, sans-serif;
-      a{
-        text-decoration: none;
-        color: #ffffff70;
-        font-size: 32px;
+      h3{
+        margin-bottom: 32px;
+        a{
+          text-decoration: none;
+          color: #ffffff70;
+          font-size: 32px;
+        }
+        .router-link-exact-active{
+          color: #FFC042;
+        }
       }
     }
   }

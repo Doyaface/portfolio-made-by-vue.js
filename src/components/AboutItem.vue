@@ -8,8 +8,8 @@
         課題解決の為、社内システムを用いて営業を支援する営業推進部への異動を希望しました。<br>
         営業推進部に配属後、提出書類のペーパレス化を促進や、VBAを用いてルーティンワークの省略化など、
         様々な業務改善を行い、事務処理の効率化に尽力致しました。<br>
-        VBAを使っていくなかで、プログラミングに可能性と面白さを感じエンジニアへの転職を決意。<br>
-        未経験のハンデを埋めるべく、プログラミングスクールTECH EXPERT大阪校にて勉強中です。<br>
+        VBAを使っていくなかで、プログラミングに可能性と面白さを感じエンジニアへの転職活動中です。<br>
+        
       </p>
   </div>
 </template>
@@ -20,9 +20,9 @@
 <style lang="scss">
   .about-conteiner{
     border-left: 5px solid #4DC0B2;
-    width: 870px;
+    width: 800px;
     height: 450px;
-    margin: 180px 0 0 190px;
+    margin: 180px 0 0 115px;
     color: #586365;
     text-align: left;
     .about-title{
