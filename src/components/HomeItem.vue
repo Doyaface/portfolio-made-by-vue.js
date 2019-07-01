@@ -6,7 +6,7 @@
         <h1 class="firstname">TAKAHIRO</h1>
         <h1 class="lastname">BABA</h1>
         <h1 class="portfolio">PORTFOLIO</h1>
-        <h4>Made With Vue.js</h4>
+        <h4>Implemented SPA in Vue.js</h4>
         <a href="mailto:t.baba0222@gmail.com">
           <h4>t.baba0222@gmail.com</h4>
         </a>

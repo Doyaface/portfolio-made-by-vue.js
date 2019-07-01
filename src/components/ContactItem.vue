@@ -1,7 +1,6 @@
 <template>
   <div class="message-form">
-    <v-card　
-      width="800px">
+    <v-card width="800px">
       <v-container>
         <h1>CONTACT</h1>
         <v-form ref="form" v-model="contactFormValidation.valid" lazy-validation>

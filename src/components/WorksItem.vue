@@ -40,7 +40,7 @@
     text-align: left;
     border-left: 5px solid #4DC0B2;
     width: 890px;
-    height: 680px;
+    height: 640px;
     .works-content{
       margin: 0 0 0 10px;
     h1{
